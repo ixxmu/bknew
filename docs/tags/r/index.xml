@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on 小可的博客</title>
+    <link>/tags/r/</link>
+    <description>Recent content in R on 小可的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>迁移并重新部署R包</title>
+      <link>/posts/play/how-to-install-your-r-packages-quickly/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/play/how-to-install-your-r-packages-quickly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FPKM RPKM TPM counts</title>
+      <link>/posts/learnr/difference-of-fpkm-rpkm-tpm-counts/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/learnr/difference-of-fpkm-rpkm-tpm-counts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>如何聚类并挑选类</title>
+      <link>/posts/learnr/how-to-cluster-your-samples-through-different-ways/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/learnr/how-to-cluster-your-samples-through-different-ways/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>热图 troubleshooting</title>
+      <link>/posts/learnr/heatmap-troubleshooting/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/learnr/heatmap-troubleshooting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>部署并安装博客写作环境</title>
+      <link>/posts/play/deploy-your-blogs-on-github-through-blogdown/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/play/deploy-your-blogs-on-github-through-blogdown/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
